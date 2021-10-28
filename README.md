@@ -9,7 +9,7 @@
 
 <figure>
 <img src="./效果1.jpg" alt="效果" width:30%/>
-<img src="./效果2.jpg" alt="" width:30%" />
+<img src="./效果2.jpg" alt="" width:30% />
 <figure/>
 
 #### TODO
