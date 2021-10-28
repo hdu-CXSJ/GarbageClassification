@@ -8,8 +8,8 @@
 下图是目前实现的效果。
 
 <figure>
-<img src="./效果1.jpg" alt="效果" width:"30%"/>
-<img src="./效果2.jpg" alt="" width:"30%" />
+<img src="./效果1.jpg" alt="效果1" width=30%  height:30%/>
+<img src="./效果2.jpg" alt="效果2" width=30% height:30% />
 <figure/>
 
 #### TODO
