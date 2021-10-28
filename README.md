@@ -7,8 +7,8 @@
 
 下图是目前实现的效果。
 
-<figure><img src="./效果1.jpg" alt="效果" style="zoom: 20%;"/>
-<img src="./效果2.jpg" alt="" style="zoom: 20%;" /><figure/>
+<figure><img src="./效果1.jpg" alt="效果" weight:30%/>
+<img src="./效果2.jpg" alt="" weight:30%" /><figure/>
 
 #### TODO
 
